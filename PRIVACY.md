@@ -13,7 +13,8 @@ What happens with it:
 
 - The events are read directly from Google by the app on your PC, and kept on your PC only.
 - The access keys Google gives are encrypted by Windows and stored on your PC only.
-- Nothing is sent to us or to anyone else. SpiderMind™ has no server, no ads and no analytics.
+- Nothing is sent to us: SpiderMind™ has no server, no ads and no analytics. Your Google data is never shared with
+  anyone, nor used for anything else than showing it to you.
 - SpiderMind™ never writes, changes or deletes anything in your Google account.
 - SpiderMind™'s use of information received from Google APIs adheres to the
   [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy),
